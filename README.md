@@ -1,5 +1,9 @@
 # Solmar Bay — make.fun gta6-01 entry (burst 2)
 
+[![make.fun](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Goatleaf12/makefun-gta6-01/rank.svg)](https://make.fun/bounty/gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Goatleaf12/makefun-gta6-01/reward.svg)](https://make.fun/bounty/gta6-01)
+
 <!-- SPDX-License-Identifier: MIT -->
 
 An original open-world 3D game built for the make.fun **gta6-01** competition —
